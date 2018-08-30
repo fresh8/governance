@@ -13,4 +13,4 @@ It will use the `README-tmpl.md` file, so any changes must be put in that file s
 ## Governance Decision Records
 
 * [1. Record governance decisions](doc/0001-record-governance-decisions.md)
-* [2. Github repository tagging](doc/0002-github-repository-tagging.md)
+* [2. Github repository topics](doc/0002-github-repository-topics.md)

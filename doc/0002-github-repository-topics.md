@@ -1,4 +1,4 @@
-# 2. Github repository tagging
+# 2. Github repository topics
 
 Date: 2018-08-30
 
@@ -12,7 +12,7 @@ It is currently unclear within Github repositories what the state and type of th
 
 ## Decision
 
-To clarify the state of repositories that are within Github, here are some basic tags to use which will allow others to see the type, state, and ownership at a glance.
+To clarify the state of repositories that are within Github, here are some topics to use which will allow others to see the type, state, and ownership at a glance.
 
 ### Type
 * `service` - A project that runs a single or multiple services within the Fresh8 stack, e.g. ConnectedVentures/f8-watson, ConnectedVentures/f8-console.
@@ -32,7 +32,7 @@ To clarify the state of repositories that are within Github, here are some basic
 * `platform-team`
 
 ### Synonyms
-If the project is referred to by multiple names, such as ConnectedVentures/f8-garrulous (aka localisation), these should also be included in tags.
+If the project is referred to by multiple names, such as ConnectedVentures/f8-garrulous (aka localisation), these should also be included in the topics.
 
 ## Consequences
 
