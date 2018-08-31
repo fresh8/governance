@@ -1,10 +1,9 @@
 # 2. Github repository topics
 
-Date: 2018-08-30
-
-## Status
-
-Accepted
+|          | 002          |
+| :------- | :----------- |
+|__Date__  | 2018-08-30   |
+|__Status__| Accepted     |
 
 ## Context
 
