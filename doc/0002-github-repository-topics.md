@@ -1,6 +1,6 @@
 # 2. Github repository topics
 
-|          | 002          |
+|          | 0002         |
 | :------- | :----------- |
 |__Date__  | 2018-08-30   |
 |__Status__| Accepted     |
