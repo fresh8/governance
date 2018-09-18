@@ -55,6 +55,12 @@ Always look for optimisations, implementing when the change is proportionate for
 ### Invest in teams, not projects
 
 
+### Ease recruiting
+
+Try to pick technologies that will let us hire the right candidates (ie, not COBOL).
+Understand the training tradeoff when choosing to write custom quick-wins.
+This is especially relevant in teams/sectors with a high turnover rate.
+
 ## Consequences
 
 Decision processes within the team should align with our principles, with deviations being raised to team leads. Deviations may mean a change in principles are required, or should highlight issues with development work or processes that require re-alignment.
