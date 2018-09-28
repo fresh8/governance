@@ -14,3 +14,4 @@ It will use the `README-tmpl.md` file, so any changes must be put in that file s
 
 * [1. Record governance decisions](doc/0001-record-governance-decisions.md)
 * [2. Github repository topics](doc/0002-github-repository-topics.md)
+* [3. Engineering Principles](doc/0003-engineering-principles.md)
