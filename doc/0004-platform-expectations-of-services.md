@@ -8,7 +8,7 @@ Accepted
 
 ## Context
 
-As we are using Google Cloud Platform (GCP), some expectations must be met in order for services to run with high availability. There are a number of failure types that can occur at any point due do GCP, including (but not limited to); unexpected single instance failure, unexpected single instance reboot, and zone/region failures.
+As we are using Google Cloud Platform (GCP), some expectations must be met in order for services to run with high availability. There are a number of failure types that can occur at any point due to GCP, including (but not limited to); unexpected single instance failure, unexpected single instance reboot, and zone/region failures.
 
 ## Decision
 
