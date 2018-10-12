@@ -1,10 +1,12 @@
 # Governance
+
 Lightweight governance for Fresh8.
 
 ## Updating the README
+
 This README is generated along with the Table of Contents using:
 
-```
+```sh
 make readme
 ```
 
